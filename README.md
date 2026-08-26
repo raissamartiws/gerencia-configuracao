@@ -6,3 +6,4 @@ Este repositório foi criado para realizar as atividades da disciplina de Gerên
 | -------------------------- | --------: |
 | Johnny da Silva Xavier     |  22450270 |
 | Raíssa Martins de Oliveira |  22450067 |
+| Nathalya Christinne Sá Macêdo |  22450509 |
