@@ -140,4 +140,4 @@ Na prática, o processo costuma seguir estas etapas:
 - Merges frequentes são necessários para evitar que as branches fiquem desatualizadas.
 - Pode ser excessivo para equipes pequenas ou projetos com deploy contínuo.
 
-Por isso, o Git Flow deve ser adaptado ao contexto do projeto. Para produtos que publicam alterações várias vezes ao dia, um fluxo baseado em `main`, branches curtas e integração contínua pode ser mais adequado.
+Por isso, o Git Flow deve ser adaptado ao contexto do projeto que está sendo desenvolvido. Para produtos que publicam alterações várias vezes ao dia, um fluxo baseado em `main`, branches curtas e integração contínua pode ser mais adequado.
