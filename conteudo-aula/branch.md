@@ -1,6 +1,6 @@
 ### O que é uma Branch? 🌿
 
-Uma **branch (ramificação)** é uma linha de desenvolvimento independente dentro de um repositório Git. Ela permite que você trabalhe em uma funcionalidade, correção ou alteração **sem modificar diretamente a branch principal** do projeto.
+Uma **branch** é uma linha de desenvolvimento independente dentro de um repositório Git. Ela permite que você trabalhe em uma funcionalidade, correção ou alteração **sem modificar diretamente a branch principal** do projeto.
 
 Imagine o projeto como uma árvore:
 
